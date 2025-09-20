@@ -1,6 +1,10 @@
 # nuaa-store-mirror
 a mirror of nuaa.store
 
+>🔥你好，这里的一切都是免费的。</br>
+$~~~~$ Hi, everything here is free.</br>
+$~~~~$ こんにちは、ここではすべてが無料です。
+
 # nuaa.store的一个镜像
 ### 内容均来自nuaa.store
 ### 仅供学习使用，相关教程书籍著作权属于相关作者，试卷著作权属于学校，请勿用于商业行为
@@ -19,6 +23,3 @@ a mirror of nuaa.store
 - [x] 课程 / Course ( 149 )
 - [x] 其他 / Other ( 11 )
 
->🔥你好，这里的一切都是免费的。</br>
-$~~~~$ Hi, everything here is free.</br>
-$~~~~$ こんにちは、ここではすべてが無料です。
